@@ -1,0 +1,1 @@
+from .monsters import ThreeHeadedMonster
