@@ -1,6 +1,6 @@
 # ArtElingo
 
-Dataset and models' checkpoints can be found [here](https://drive.google.com/drive/folders/1E_q3GmkZqpe6Ogdcd-sF2novBAeJ0-47?usp=sharing)
+Dataset and models' checkpoints can be found [here](https://forms.gle/pwbdJH1efv27EmHAA)
 
 You will need to download the WikiArt images from [here](https://drive.google.com/file/d/1vTChp3nU5GQeLkPwotrybpUGUXj12BTK/view). This is provided by ArtGAN [repo](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset)
 
